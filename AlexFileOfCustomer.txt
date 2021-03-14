@@ -1,0 +1,9 @@
+
+Product id: f8e63b65-e214-4038-812e-6ce1d9764887
+ (name HP_Notebook, ModelOfProduct - ProBook_4530s, price-1500, dateOfManufacture: 2017-08-20T11:15)
+Product id: 034c2ad1-9c29-4c83-85c2-9091faf6153d
+ (name HP_Notebook, ModelOfProduct - ProBook_655_G3, price-1700, dateOfManufacture: 2020-01-01T15:00)
+Product id: 07a7bd9a-808e-49ac-a4fa-459bb2c0a20d
+ (name HP_Notebook, ModelOfProduct - Pavilion_x360_11, price-1200, dateOfManufacture: 2018-05-12T08:30)
+Product id: f701dfc1-e330-48f7-843a-519538feb161
+ (name HP_Notebook, ModelOfProduct - Pavilion_DV7_6053er, price-1300, dateOfManufacture: 2019-05-25T14:20)
